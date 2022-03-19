@@ -8,3 +8,4 @@ I am Dainis ,dude what want to learn back end.
 LIve and go forward to learn new stuff/
 
 Added new text for tests
+add third example of tests
