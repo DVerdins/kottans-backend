@@ -6,3 +6,5 @@ I am Dainis ,dude what want to learn back end.
 ## Unix Shell
 ![Unix_task](https://github.com/RazdolbayOne/kottans-backend/blob/master/task_unix_shell/Screenshot%20from%202019-09-15%2018-30-12.png)
 LIve and go forward to learn new stuff/
+
+Added new text for tests
